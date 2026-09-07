@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: gudeg-kla
+    runtime: python
+    plan: free
+    region: singapore
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python3 server.py $PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
