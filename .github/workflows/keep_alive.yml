@@ -1,0 +1,15 @@
+name: Keep Render 24/7 Active
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Service Health Endpoint
+        run: |
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" "https://gudeg-kla.onrender.com/api/health" || echo "failed")
+          echo "Health check status: $STATUS"
