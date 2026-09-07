@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.impeccable/
+server.log
+*.bak
+*.bak.html
+images/test_*.png
+images/hero_*.png
+images/modal_*.png
+images/admin_*.png

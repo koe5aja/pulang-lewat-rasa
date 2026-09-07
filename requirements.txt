@@ -1,0 +1,3 @@
+# Gudeg KLA / Pulang Lewat Rasa dependencies
+# Server uses Python 3 standard library (http.server, sqlite3, hashlib, json)
+Pillow>=10.0.0

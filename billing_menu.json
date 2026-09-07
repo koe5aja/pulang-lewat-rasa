@@ -1,0 +1,187 @@
+{
+  "database_name": "billing.db",
+  "menus": [
+    {
+      "id": "brongkos-koyor",
+      "name": "Brongkos Koyor Dapur Kraton",
+      "region": "Kota Yogyakarta",
+      "price": 40000,
+      "unit": "porsi",
+      "description": "Kuah hitam kluwek pekat kesukaan raja-raja, menghangatkan tubuh dengan rempah dalam.",
+      "image": "brongkos-koyor.jpg"
+    },
+    {
+      "id": "gatot-singkong",
+      "name": "Gatot Singkong Fermentasi Alami",
+      "region": "Gunungkidul",
+      "price": 20000,
+      "unit": "besek tampah",
+      "description": "Kenyal kenyil singkong fermentasi alami yang membuktikan bahwa keterbatasan melahirkan kelezatan.",
+      "image": "gatot-singkong.jpg"
+    },
+    {
+      "id": "geblek-benguk",
+      "name": "Geblek & Besengek Tempe Benguk",
+      "region": "Kulon Progo",
+      "price": 22000,
+      "unit": "besek",
+      "description": "Pilinan kanji angka delapan bersanding dengan gurih pekat koro benguk purba Menoreh.",
+      "image": "geblek-benguk.jpg"
+    },
+    {
+      "id": "geplak-bantul",
+      "name": "Geplak Kelapa Parut Pesisir",
+      "region": "Bantul",
+      "price": 25000,
+      "unit": "besek 500gr",
+      "description": "Manis legit parutan kelapa pesisir selatan yang dibungkus rapi anyaman besek bambu.",
+      "image": "geplak-bantul.jpg"
+    },
+    {
+      "id": "gudeg-manggar",
+      "name": "Gudeg KLA",
+      "region": "Kota Yogyakarta",
+      "price": 45000,
+      "unit": "porsi komplit",
+      "description": "Sajian otentik Gudeg KLA basah bumbu rempah tradisi dengan krecek gurih pedas dan telur bacem beralas daun pisang kluthuk.",
+      "image": "gudeg-manggar.jpg"
+    },
+    {
+      "id": "gula-semut",
+      "name": "Gula Semut Aren & Kelapa Kokap",
+      "region": "Kulon Progo",
+      "price": 28000,
+      "unit": "toples 250gr",
+      "description": "Tetes nira murni pohon aren Kokap yang dimasak sabar hingga menjadi butiran pasir manis.",
+      "image": "gula-semut.jpg"
+    },
+    {
+      "id": "jadah-tempe",
+      "name": "Jadah Tempe Bacem Kaliurang",
+      "region": "Sleman",
+      "price": 20000,
+      "unit": "besek (isi 5 pasang)",
+      "description": "Ketan tumbuk gurih Kaliurang yang dipeluk tempe bacem legit di bawah dinginnya kabut Merapi.",
+      "image": "jadah-tempe.jpg"
+    },
+    {
+      "id": "jangan-lombok",
+      "name": "Sayur Lombok Ijo Tempe Bosok",
+      "region": "Gunungkidul",
+      "price": 22000,
+      "unit": "porsi kuali",
+      "description": "Kuah santan pedas hangat bertabur irisan cabai hijau dan tempe semangit umami ladang.",
+      "image": "jangan-lombok.jpg"
+    },
+    {
+      "id": "kopi-menoreh",
+      "name": "Kopi Robusta Lereng Menoreh",
+      "region": "Kulon Progo",
+      "price": 30000,
+      "unit": "kemasan 150gr",
+      "description": "Kopi tubruk kental beraroma cokelat tanah basah dari kebun rakyat ketinggian Samigaluh.",
+      "image": "kopi-menoreh.jpg"
+    },
+    {
+      "id": "lupis-pasar",
+      "name": "Lupis Ketan & Cenil Gula Kelapa",
+      "region": "Kota Yogyakarta",
+      "price": 18000,
+      "unit": "pincuk tampah",
+      "description": "Pulennya ketan segitiga daun pisang berbalut parutan kelapa dan kentalnya juruh gula aren.",
+      "image": "lupis-pasar.jpg"
+    },
+    {
+      "id": "mangut-lele",
+      "name": "Mangut Lele Asap Dapur Mbah Marto",
+      "region": "Bantul",
+      "price": 35000,
+      "unit": "porsi",
+      "description": "Aroma sangit pelepah kelapa dan kuah santan cabai rawit pedas di dapur berasap Mbah Marto.",
+      "image": "mangut-lele.jpg"
+    },
+    {
+      "id": "mie-lethek",
+      "name": "Mie Lethek Tradisional Bendo",
+      "region": "Bantul",
+      "price": 25000,
+      "unit": "porsi",
+      "description": "Mi tapioka singkong keruh alami yang digiling dengan tenaga sapi jantan di Bendo sejak 1940.",
+      "image": "mie-lethek.jpg"
+    },
+    {
+      "id": "salak-pondoh",
+      "name": "Salak Pondoh Lereng Merapi",
+      "region": "Sleman",
+      "price": 25000,
+      "unit": "kg",
+      "description": "Daging buah renyah manis tebal yang menyerap berkah abu vulkanik lereng Turi.",
+      "image": "salak-pondoh.jpg"
+    },
+    {
+      "id": "sate-klatak",
+      "name": "Sate Klatak Jeruji Besi Pleret",
+      "region": "Bantul",
+      "price": 40000,
+      "unit": "porsi (2 jeruji)",
+      "description": "Daging kambing muda empuk berpanggang jeruji sepeda dengan semerbak garam laut selatan.",
+      "image": "sate-klatak.jpg"
+    },
+    {
+      "id": "sego-welut",
+      "name": "Sego Welut Pedas Godean",
+      "region": "Sleman",
+      "price": 35000,
+      "unit": "porsi",
+      "description": "Belut sawah tangkapan segar saluran irigasi Godean yang digoreng garing dalam kuah santan pedas.",
+      "image": "sego-welut.jpg"
+    },
+    {
+      "id": "tiwul-gaplek",
+      "name": "Thiwul Gaplek Kayu Bakar",
+      "region": "Gunungkidul",
+      "price": 20000,
+      "unit": "besek tampah",
+      "description": "Butiran gaplek singkong kering bertumbuk lesung kayu, lambang ketabahan bumi karst berkapur.",
+      "image": "tiwul-gaplek.jpg"
+    },
+    {
+      "id": "walang-goreng",
+      "name": "Walang Goreng Gurih Paliyan",
+      "region": "Gunungkidul",
+      "price": 38000,
+      "unit": "toples kecil",
+      "description": "Kerenyahan gurih belalang kayu hutan jati Paliyan, berkah protein bersahaja musim palawija.",
+      "image": "walang-goreng.jpg"
+    },
+    {
+      "id": "wedang-uwuh",
+      "name": "Wedang Uwuh Rempah Mataram",
+      "region": "Sleman",
+      "price": 15000,
+      "unit": "bungkus (isi 5 racik)",
+      "description": "Rebusan cengkeh, kayu secang delima, dan jahe hangat penyatu rasa di malam Jogja.",
+      "image": "wedang-uwuh.jpg"
+    }
+  ],
+  "packaging": [
+    {
+      "id": "tanpa",
+      "name": "Tanpa Wadah Tradisional (Kemasan Standar)",
+      "price": 0,
+      "description": "Kemasan food-grade higienis ramah lingkungan (tanpa besek bambu/kendil)"
+    },
+    {
+      "id": "besek",
+      "name": "Besek Anyaman Bambu & Daun Pisang Kluthuk",
+      "price": 5000,
+      "description": "Wadah besek bambu alami berikat tali rami beralas daun"
+    },
+    {
+      "id": "kendil",
+      "name": "Wadah Kendil Tanah Liat Tradisional",
+      "price": 15000,
+      "description": "Kuali gerabah Kasongan penjaga kehangatan kuah masakan"
+    }
+  ]
+}

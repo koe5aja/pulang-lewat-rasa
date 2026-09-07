@@ -6,6 +6,7 @@ services:
     region: singapore
     buildCommand: "pip install -r requirements.txt"
     startCommand: "python3 server.py $PORT"
+    healthCheckPath: /api/health
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.9
